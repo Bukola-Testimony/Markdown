@@ -8,15 +8,15 @@
 
 <!-- Italics-->
 
-_Matthew in italics_
+_Altschool in italics_
 
 *Bukola in italics*
 
 <!-- Bold-->
 
-**Tech is fun if you know what you doing!**
+**DevOps is cool!**
 
-__Tech is fun if you know what you doing!__
+__Tech is fun !__
 
 <!-- Strikethrough-->
 
@@ -33,9 +33,9 @@ ___
 > this is a block quote
 <!-- Links-->
 
-[Solomons Creed Tech](www.bukolatestiomony.me)
+[Bukola Dev](www.bukolatestiomony.me)
 
-[Solomons Creed Tech](www.solomoncreed.com "Solomon's Creed")
+[Bukola Dev Tech](www.bukolatestiomony.me)
 
 <!-- UL-->
 
@@ -59,15 +59,28 @@ ___
 
 <!-- Images-->
 
-![Markdown logo](https://markdown-here.com/img/icon256.png](https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png)
+<!-- This works best for images that do not need resizing-->
+![Amazon Logo](https://skillicons.dev/icons?i=aws,python,laravel)
+
+
+<!-- This works best for images that needs resizing-->
+<img src="https://s3practicebucket1.s3.amazonaws.com/Web/Bukola_Testimony.jpg" width="200" height="250" />
+
+<p align="center"> Tech Stack </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=github,git,aws,html,css,javascript,python,linux,vscode" alt="Tech Stack" /> </p>
+
+
 
 <!-- Github Markdown-->
 
 <!-- Code Blocks-->
 
 ```bash
-  npm install
-  npm  start
+sudo apt update
+sudo apt install -y software-properties-common
+sudo apt-add-repository ppa:ansible/ansible
+sudo apt install -y ansible
+  
  ```
  
  ```javascript
