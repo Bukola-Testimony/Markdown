@@ -33,7 +33,7 @@ ___
 > this is a block quote
 <!-- Links-->
 
-[Solomons Creed Tech](www.solomoncreed.com)
+[Solomons Creed Tech](www.bukolatestiomony.me)
 
 [Solomons Creed Tech](www.solomoncreed.com "Solomon's Creed")
 
@@ -59,7 +59,7 @@ ___
 
 <!-- Images-->
 
-![Markdown logo]([https://markdown-here.com/img/icon256.png](https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png)
+![Markdown logo](https://markdown-here.com/img/icon256.png](https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png)
 
 <!-- Github Markdown-->
 
@@ -84,10 +84,10 @@ ___
 
  <!-- Tables-->
 
- |Name             | Email           |
- | --------------- | --------------  |
- | John Doe        | John@gmai.com   |
- |Bukola Testimony | tarfa@gmail.com |
+ |Name              | Email                      |
+ | ---------------  | --------------             |
+ | John Doe         | John@gmai.com              |
+ |Bukola Testimony  | bukolatestimony1@gmail.com |
 
 
 <!-- Task List-->
